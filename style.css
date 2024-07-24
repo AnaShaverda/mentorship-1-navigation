@@ -1,0 +1,33 @@
+body {
+  background-color: rgb(190, 248, 248);
+}
+.logo {
+  width: 100px;
+}
+.nav-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: yellow;
+  padding: 20px;
+  position: fixed;
+  width: 100%;
+  top: 0;
+}
+.nav-ul {
+  display: flex;
+}
+.nav-li {
+  margin-left: 30px;
+}
+
+.nav-li a {
+  text-transform: uppercase;
+  color: black;
+  font-weight: bold;
+}
+
+.box {
+  height: 902000px;
+  padding-top: 150px;
+}
